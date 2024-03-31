@@ -5,7 +5,7 @@
 1. Open Arduino IDE
 2. Plug in Sparkfun pro micro
 3. Tools > Board > Sparkfun AVR Boards > Sparkfun Pro Micro
-4. Tools > Processor > "ATmega32U4 (3.3V, 8 MHZ)"
+4. Tools > Processor > "ATmega32U4 (5V, 16 MHZ)"
 5. Write code
 
 9. Fingers crossed and hope the board flashes correctly (LEDs should flash when successful)
