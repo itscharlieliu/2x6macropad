@@ -12,8 +12,8 @@
 
 
 ## Notes
-- Make sure voltage is correct. The micro usb boards are 5v6. Reboot board into bootloader by double tapping reset and ground
+- Make sure voltage is correct. The micro usb boards are 5v. Reboot board into bootloader by double tapping reset and ground
 - If you cannot flash because the serial port is not available, try resetting into bootloader first
-  -  Reboot board into bootloader by double tapping reset and ground
+  - Reboot board into bootloader by double tapping reset and ground
   - Press Upload button (Right arrow icon)
   - Quickly Reboot board into bootloader by double tapping reset and ground (Yes again)
